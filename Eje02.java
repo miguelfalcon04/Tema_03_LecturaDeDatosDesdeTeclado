@@ -16,5 +16,6 @@ public class Eje02 {
         System.out.println(euros+" euros son "+euros*166+" en pesetas");
 
         sc.close();
+
     }
 }
