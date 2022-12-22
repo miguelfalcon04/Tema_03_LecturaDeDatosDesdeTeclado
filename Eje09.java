@@ -18,6 +18,5 @@ public class Eje09 {
         System.out.printf("El volumen del cono será de: %.2f",((1.0/3.0)*Math.PI*r*r*h));
 
         sc.close();
-
     }
 }
